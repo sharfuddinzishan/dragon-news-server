@@ -1,0 +1,30 @@
+[
+    {
+        "_id": "1",
+        "name": "Breaking News"
+    },
+    {
+        "_id": "2",
+        "name": "Regular News"
+    },
+    {
+        "_id": "3",
+        "name": "International News"
+    },
+    {
+        "_id": "4",
+        "name": "Sports"
+    },
+    {
+        "_id": "5",
+        "name": "Entertainment"
+    },
+    {
+        "_id": "6",
+        "name": "Culture"
+    },
+    {
+        "_id": "7",
+        "name": "All News"
+    }
+]
